@@ -25,6 +25,8 @@ The dataset covers approximately 100K orders placed between September 2016 and O
 
 The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
 
+The dataset contains 9 tables, of which the Power BI model uses 7. The category translation table is used only to create English category names, and the geolocation table is excluded.
+
 ### Tables Used
 
 | Table | Description |
